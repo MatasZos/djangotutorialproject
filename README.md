@@ -2,6 +2,6 @@
 
 # Admin username : Admin
 
-#Admin password : 1234
+# Admin password : 1234
 
 # install debug toolbar
