@@ -6,4 +6,4 @@
 
 # install debug toolbar
 
-# to run tests - py manage.py test
+# command to run tests - py manage.py test
